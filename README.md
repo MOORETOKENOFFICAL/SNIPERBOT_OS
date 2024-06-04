@@ -1,14 +1,19 @@
 # SniperBot OS
 
+![Version](https://img.shields.io/badge/version-1.0-blue.svg)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Contributions](https://img.shields.io/badge/contributions-welcome-orange.svg)
+
 SniperBot OS is your ultimate ally in the high-stakes world of competitive online gaming, stock trading, and beyond. This state-of-the-art, precision-engineered operating system delivers unparalleled accuracy, speed, and customization, giving you the edge you need to dominate your field. With SniperBot OS, you're not just participating; you're leading.
 
 ## Features
 
-- **Unmatched Precision**: Achieve pinpoint accuracy with SniperBot OS, ensuring you hit your targets every time.
-- **Tailor-Made Customization**: Configure SniperBot OS to meet your exact needs, whether you're in the heat of an online battle or making split-second trading decisions.
-- **Lightning-Fast Performance**: Experience real-time results with minimal latency, perfect for environments where every millisecond counts.
-- **Intuitive Interface**: Effortlessly control and configure SniperBot OS through a user-friendly interface.
-- **Robust Security**: Built with top-tier security protocols to safeguard your data and operations.
+- ![Precision](https://img.shields.io/badge/feature-precision-yellow.svg) **Unmatched Precision**: Achieve pinpoint accuracy with SniperBot OS, ensuring you hit your targets every time.
+- ![Customization](https://img.shields.io/badge/feature-customization-blue.svg) **Tailor-Made Customization**: Configure SniperBot OS to meet your exact needs, whether you're in the heat of an online battle or making split-second trading decisions.
+- ![Performance](https://img.shields.io/badge/feature-performance-red.svg) **Lightning-Fast Performance**: Experience real-time results with minimal latency, perfect for environments where every millisecond counts.
+- ![Interface](https://img.shields.io/badge/feature-interface-green.svg) **Intuitive Interface**: Effortlessly control and configure SniperBot OS through a user-friendly interface.
+- ![Security](https://img.shields.io/badge/feature-security-purple.svg) **Robust Security**: Built with top-tier security protocols to safeguard your data and operations.
 
 ## Installation
 
@@ -24,8 +29,6 @@ SniperBot OS is your ultimate ally in the high-stakes world of competitive onlin
    - After installation, you can start SniperBot OS from the Start Menu or by double-clicking the desktop shortcut.
 
 ## Configuration
-
-SniperBot OS comes with a comprehensive configuration file (`config.yaml`) that allows you to fine-tune every aspect of its operation. Key parameters include:
 
 - **targeting**:
     - `accuracy`: Set the accuracy level to high, medium, or low.
@@ -47,17 +50,17 @@ After installing and configuring, unleash the power of SniperBot OS by running t
 
 - **Start the bot**:
     ```bash
-    python sniperbot_os.py start
+    sniperbot_os.exe start
     ```
 
 - **Stop the bot**:
     ```bash
-    python sniperbot_os.py stop
+    sniperbot_os.exe Stop
     ```
 
 - **Check status**:
     ```bash
-    python sniperbot_os.py status
+    sniperbot_os.exe status
     ```
 
 ## Contributing
